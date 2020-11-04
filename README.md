@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hi there 😺
 ![](https://komarev.com/ghpvc/?username=PrimeMHD)
 
-### About me
-Boy 95+
+### 😄 About me
+Boy, 95+, love cats
 #### Looking for alumnus
 - Xiangyang No.5 Middle School
 - Tongji University
