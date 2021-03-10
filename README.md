@@ -5,28 +5,21 @@
 ![KiteAB's github stats](https://github-readme-stats.vercel.app/api?username=PrimeMHD&show_icons=true&theme=onedark)
 
 
-### 😄 About me
-Boy, 95+, love cats
+### 👨‍🎓 About me
+Boy, 95+, master student.
+
 #### Looking for alumnus
 - Xiangyang No.5 Middle School
 - Tongji University
 - University of Chinese Academy of Sciences
 - Institute of Computing Technology, CAS
-#### Skills
-- Operating System
-- ML/DL
-- Network
-- FPGA
-- C++/Python/Verilog/MIPS
-#### 
-
+- 
 ### 📫 How to reach me:
 - Email: <a href='primemhd@foxmail.com'>primemhd@foxmail.com</a>
 
 ### 🌱 I’m currently learning
 - Operating System
-- Pattern Recognization
-- Machine Learning
+- ML/DL
 - Computer Network
 - FPGA
 
