@@ -1,6 +1,11 @@
 ### Hi there 😺
 ![](https://komarev.com/ghpvc/?username=PrimeMHD)
 
+### 🔭 I’m currently working on ...
+![KiteAB's github stats](https://github-readme-stats.vercel.app/api?username=PrimeMHD&show_icons=true&theme=onedark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrimeMHD)
+
 ### 😄 About me
 Boy, 95+, love cats
 #### Looking for alumnus
@@ -9,11 +14,11 @@ Boy, 95+, love cats
 - University of Chinese Academy of Sciences
 - Institute of Computing Technology, CAS
 #### Skills
-- Cooking
-- Eating
-- Ping Pong
-- Golf
-- a little C++/Python/Verilog/MIPS
+- Operating System
+- ML/DL
+- Network
+- FPGA
+- C++/Python/Verilog/MIPS
 #### 
 
 ### 📫 How to reach me:
@@ -28,10 +33,6 @@ Boy, 95+, love cats
 
 
 
-### 🔭 I’m currently working on ...
-![KiteAB's github stats](https://github-readme-stats.vercel.app/api?username=PrimeMHD&show_icons=true&theme=onedark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrimeMHD)
 
 
 
