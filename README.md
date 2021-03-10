@@ -8,7 +8,7 @@
 ### 👨‍🎓 About me
 Boy, 95+, master student.
 
-#### Looking for alumnus
+#### 🏫Looking for alumnus
 - Xiangyang No.5 Middle School
 - Tongji University
 - University of Chinese Academy of Sciences
