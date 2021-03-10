@@ -16,6 +16,7 @@ Boy, 95+, master student.
 
 ### 📫 How to reach me:
 - Email: <a href='primemhd@foxmail.com'>primemhd@foxmail.com</a>
+- Personal Blog: https://primemhd.tech
 
 ### 🌱 I’m currently learning
 - Operating System
