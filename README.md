@@ -1,28 +1,22 @@
 ### Hi there 😺
 ![](https://komarev.com/ghpvc/?username=PrimeMHD)
 
-### 🔭 I’m currently working on ...
 ![KiteAB's github stats](https://github-readme-stats.vercel.app/api?username=PrimeMHD&show_icons=true&theme=onedark)
 
 
-### 👨‍🎓 About me
-Boy, 95+, master student.
-
-#### 🏫Looking for alumnus
-- Xiangyang No.5 Middle School
+### 👨‍🎓
 - Tongji University
 - University of Chinese Academy of Sciences
 - Institute of Computing Technology, CAS
 
-### 📫 How to reach me:
+### 📫
 - Email: <a href='primemhd@foxmail.com'>primemhd@foxmail.com</a>
 - Personal Blog: https://primemhd.tech
 
-### 🌱 I’m currently learning
-- Operating System
-- ML/DL
-- Computer Network
-- FPGA
+### 🌱 Working on
+- LLM ct,sft
+- Megatron
+- ML/DL Training Optimization
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrimeMHD)
 
